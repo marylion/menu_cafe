@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.titulo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: cornflowerblue;
+}
+
+.txt-preto {
+    margin: 0;
+    padding: 0;
+    display: inline;
+    background-color: brown;
+}
+
+.txt-laranja {
+    margin: 0;
+    padding: 0;
+    display: inline;
+    background-color: orange;
+}
