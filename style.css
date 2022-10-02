@@ -1,12 +1,15 @@
 body {
     margin: 0;
     padding: 0;
+    justify-content: center;
+    display: flex;
 }
 
 .container {
     background-color: aqua;
     padding: 50px;
     margin: 30px;
+    width: 190px;
 }
 
 .titulo{
@@ -45,3 +48,26 @@ body {
 .menu-item{
     background-color: violet;
 }
+
+/* .menu-list{
+    float: left;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0);
+} */
+
+/*Estilo Brunch*/
+.brunch h2{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: #FED7AA;
+    padding: 5px;
+    
+}
+
+/*Estilo Bebidas*/
+.bebidas h2{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: #FED7AA;
+}
+
