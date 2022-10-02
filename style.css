@@ -71,3 +71,7 @@ body {
     background-color: #FED7AA;
 }
 
+ul {
+    padding: 0;
+    margin: 0;
+}
